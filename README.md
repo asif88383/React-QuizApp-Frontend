@@ -1,7 +1,7 @@
 <div align="center">
 <h1>React Quiz-Trivia App Frontend</h1>
    <div align="center">
-    <a href='https://qtrivia.netlify.app/'>Click for App Demo</a>
+    <h2><a href='https://qtrivia.netlify.app/'>Click for App Demo</a></h2>
     <br/>
     <hr />
     <br />
